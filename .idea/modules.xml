@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section6/DigitSumChallenge/DigitSumChallenge.iml" filepath="$PROJECT_DIR$/Section6/DigitSumChallenge/DigitSumChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section5 IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/Section5 IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section4/Section4.iml" filepath="$PROJECT_DIR$/Section4/Section4.iml" />
@@ -12,11 +13,17 @@
       <module fileurl="file://$PROJECT_DIR$/Section5 StatementsWhiteSpaceAndIndenting/Section5 StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/Section5 StatementsWhiteSpaceAndIndenting/Section5 StatementsWhiteSpaceAndIndenting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section5 firstMethodChallenge2/Section5 firstMethodChallenge2.iml" filepath="$PROJECT_DIR$/Section5 firstMethodChallenge2/Section5 firstMethodChallenge2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section6/Section6.iml" filepath="$PROJECT_DIR$/Section6/Section6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section6/Section6 MinmaxChallenge/Section6 MinmaxChallenge.iml" filepath="$PROJECT_DIR$/Section6/Section6 MinmaxChallenge/Section6 MinmaxChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section6/Section6 ReadingUserInput/Section6 ReadingUserInput.iml" filepath="$PROJECT_DIR$/Section6/Section6 ReadingUserInput/Section6 ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section6/Section6 ReadingUserInputChallenge/Section6 ReadingUserInputChallenge.iml" filepath="$PROJECT_DIR$/Section6/Section6 ReadingUserInputChallenge/Section6 ReadingUserInputChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section6/Section6 Sum3And5Challenge/Section6 Sum3And5Challenge.iml" filepath="$PROJECT_DIR$/Section6/Section6 Sum3And5Challenge/Section6 Sum3And5Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section6/Section6 Switch/Section6 Switch.iml" filepath="$PROJECT_DIR$/Section6/Section6 Switch/Section6 Switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section6/SwitchChallenge/Section6 SwitchChallenge.iml" filepath="$PROJECT_DIR$/Section6/SwitchChallenge/Section6 SwitchChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section6/Section6 SwtichExpression/Section6 SwtichExpression.iml" filepath="$PROJECT_DIR$/Section6/Section6 SwtichExpression/Section6 SwtichExpression.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section6/TheForLoop/Section6 TheForLoop.iml" filepath="$PROJECT_DIR$/Section6/TheForLoop/Section6 TheForLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section6/Section6 ThePrimeNumberChallenge/Section6 ThePrimeNumberChallenge.iml" filepath="$PROJECT_DIR$/Section6/Section6 ThePrimeNumberChallenge/Section6 ThePrimeNumberChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section6/Section6 WhileLoop/Section6 WhileLoop.iml" filepath="$PROJECT_DIR$/Section6/Section6 WhileLoop/Section6 WhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section6/Section6 WhileLoopChallenge/Section6 WhileLoopChallenge.iml" filepath="$PROJECT_DIR$/Section6/Section6 WhileLoopChallenge/Section6 WhileLoopChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Error   Section5 firstMethodChallenge2/firstMethodChallenge.iml" filepath="$PROJECT_DIR$/Error   Section5 firstMethodChallenge2/firstMethodChallenge.iml" />
     </modules>
   </component>

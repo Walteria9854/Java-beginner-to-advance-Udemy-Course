@@ -4,7 +4,7 @@ public class Main {
 
        int count = 0;
 
-       for(int i = 10; i <= 50; i++ ){
+       for(int i = 10; count < 3 && i <= 50; i++ ){
            if (isPrime(i)) {
                System.out.println("number " + i + " is a prime number");
                count++;
