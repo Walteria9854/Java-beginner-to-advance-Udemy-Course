@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/Section6/Section6 WhileLoop/Section6 WhileLoop.iml" filepath="$PROJECT_DIR$/Section6/Section6 WhileLoop/Section6 WhileLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section6/Section6 WhileLoopChallenge/Section6 WhileLoopChallenge.iml" filepath="$PROJECT_DIR$/Section6/Section6 WhileLoopChallenge/Section6 WhileLoopChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7.iml" filepath="$PROJECT_DIR$/Session7/Session7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session7/Session7 AllAboutStrings/Session7 AllAboutStrings.iml" filepath="$PROJECT_DIR$/Session7/Session7 AllAboutStrings/Session7 AllAboutStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 ClassesChallenge/Session7 ClassesChallenge.iml" filepath="$PROJECT_DIR$/Session7/Session7 ClassesChallenge/Session7 ClassesChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 Classespart1/Session7 Classespart1.iml" filepath="$PROJECT_DIR$/Session7/Session7 Classespart1/Session7 Classespart1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 Inheritance/Session7 Inheritance.iml" filepath="$PROJECT_DIR$/Session7/Session7 Inheritance/Session7 Inheritance.iml" />
@@ -32,6 +33,10 @@
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 RecordProject/Session7 RecordProject.iml" filepath="$PROJECT_DIR$/Session7/Session7 RecordProject/Session7 RecordProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 SonstructorChallenge/Session7 SonstructorChallenge.iml" filepath="$PROJECT_DIR$/Session7/Session7 SonstructorChallenge/Session7 SonstructorChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 StringFormatting/Session7 StringFormatting.iml" filepath="$PROJECT_DIR$/Session7/Session7 StringFormatting/Session7 StringFormatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session7/Session7 StringOptions/Session7 StringOptions.iml" filepath="$PROJECT_DIR$/Session7/Session7 StringOptions/Session7 StringOptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session8/Session8.iml" filepath="$PROJECT_DIR$/Session8/Session8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session8/Session8 CompositionChallenge/Session8 CompositionChallenge.iml" filepath="$PROJECT_DIR$/Session8/Session8 CompositionChallenge/Session8 CompositionChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session8/Session8 ComputerFactory/Session8 ComputerFactory.iml" filepath="$PROJECT_DIR$/Session8/Session8 ComputerFactory/Session8 ComputerFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/TheObjectClass/TheObjectClass.iml" filepath="$PROJECT_DIR$/Session7/TheObjectClass/TheObjectClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Error   Section5 firstMethodChallenge2/firstMethodChallenge.iml" filepath="$PROJECT_DIR$/Error   Section5 firstMethodChallenge2/firstMethodChallenge.iml" />
     </modules>
