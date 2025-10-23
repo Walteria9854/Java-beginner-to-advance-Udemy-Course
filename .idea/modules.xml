@@ -24,6 +24,9 @@
       <module fileurl="file://$PROJECT_DIR$/Section6/Section6 ThePrimeNumberChallenge/Section6 ThePrimeNumberChallenge.iml" filepath="$PROJECT_DIR$/Section6/Section6 ThePrimeNumberChallenge/Section6 ThePrimeNumberChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section6/Section6 WhileLoop/Section6 WhileLoop.iml" filepath="$PROJECT_DIR$/Section6/Section6 WhileLoop/Section6 WhileLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section6/Section6 WhileLoopChallenge/Section6 WhileLoopChallenge.iml" filepath="$PROJECT_DIR$/Section6/Section6 WhileLoopChallenge/Section6 WhileLoopChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session10/Session10.iml" filepath="$PROJECT_DIR$/Session10/Session10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session10/Session10 ArrayListChallenge/Session10 ArrayListChallenge.iml" filepath="$PROJECT_DIR$/Session10/Session10 ArrayListChallenge/Session10 ArrayListChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session10/Session10 ArrayLists/Session10 ArrayLists.iml" filepath="$PROJECT_DIR$/Session10/Session10 ArrayLists/Session10 ArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7.iml" filepath="$PROJECT_DIR$/Session7/Session7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 AllAboutStrings/Session7 AllAboutStrings.iml" filepath="$PROJECT_DIR$/Session7/Session7 AllAboutStrings/Session7 AllAboutStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 ClassesChallenge/Session7 ClassesChallenge.iml" filepath="$PROJECT_DIR$/Session7/Session7 ClassesChallenge/Session7 ClassesChallenge.iml" />
@@ -46,10 +49,16 @@
       <module fileurl="file://$PROJECT_DIR$/Session9/Session9 ArrayChallenge/Session9 ArrayChallenge.iml" filepath="$PROJECT_DIR$/Session9/Session9 ArrayChallenge/Session9 ArrayChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session9/Session9 ArrayReferences/Session9 ArrayReferences.iml" filepath="$PROJECT_DIR$/Session9/Session9 ArrayReferences/Session9 ArrayReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session9/Session9 ArraysProject/Session9 ArraysProject.iml" filepath="$PROJECT_DIR$/Session9/Session9 ArraysProject/Session9 ArraysProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session9/Session9 MinimumElementChallenge 2/Session9 MinimumElementChallenge 2.iml" filepath="$PROJECT_DIR$/Session9/Session9 MinimumElementChallenge 2/Session9 MinimumElementChallenge 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session9/Session9 MinimunElementChallenge/Session9 MinimunElementChallenge.iml" filepath="$PROJECT_DIR$/Session9/Session9 MinimunElementChallenge/Session9 MinimunElementChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session9/Session9 MunimumElementChallenge/Session9 MunimumElementChallenge.iml" filepath="$PROJECT_DIR$/Session9/Session9 MunimumElementChallenge/Session9 MunimumElementChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session9/Session9 SecondArrayChallenge/Session9 SecondArrayChallenge.iml" filepath="$PROJECT_DIR$/Session9/Session9 SecondArrayChallenge/Session9 SecondArrayChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session9/Session9 UsingArrays/Session9 UsingArrays.iml" filepath="$PROJECT_DIR$/Session9/Session9 UsingArrays/Session9 UsingArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session9/Session9 VarArgs/Session9 VarArgs.iml" filepath="$PROJECT_DIR$/Session9/Session9 VarArgs/Session9 VarArgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session10/Sessions10 ArrayAndArrayLists/Sessions10 ArrayAndArrayLists.iml" filepath="$PROJECT_DIR$/Session10/Sessions10 ArrayAndArrayLists/Sessions10 ArrayAndArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/TheObjectClass/TheObjectClass.iml" filepath="$PROJECT_DIR$/Session7/TheObjectClass/TheObjectClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Error   Section5 firstMethodChallenge2/firstMethodChallenge.iml" filepath="$PROJECT_DIR$/Error   Section5 firstMethodChallenge2/firstMethodChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session9/multipleArrays/multipleArrays.iml" filepath="$PROJECT_DIR$/Session9/multipleArrays/multipleArrays.iml" />
     </modules>
   </component>
 </project>
