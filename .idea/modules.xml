@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Section6/DigitSumChallenge/DigitSumChallenge.iml" filepath="$PROJECT_DIR$/Section6/DigitSumChallenge/DigitSumChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section5 IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/Section5 IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session10/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/Session10/LinkedLists/LinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section4/Section4.iml" filepath="$PROJECT_DIR$/Section4/Section4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section5/Section5.iml" filepath="$PROJECT_DIR$/Section5/Section5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section5 MethodOverloading/Section5 MethodOverloading.iml" filepath="$PROJECT_DIR$/Section5 MethodOverloading/Section5 MethodOverloading.iml" />
@@ -25,8 +26,10 @@
       <module fileurl="file://$PROJECT_DIR$/Section6/Section6 WhileLoop/Section6 WhileLoop.iml" filepath="$PROJECT_DIR$/Section6/Section6 WhileLoop/Section6 WhileLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section6/Section6 WhileLoopChallenge/Section6 WhileLoopChallenge.iml" filepath="$PROJECT_DIR$/Section6/Section6 WhileLoopChallenge/Section6 WhileLoopChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session10/Session10.iml" filepath="$PROJECT_DIR$/Session10/Session10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session10/Session10 A.LinkedListChallenge/Session10 A.LinkedListChallenge.iml" filepath="$PROJECT_DIR$/Session10/Session10 A.LinkedListChallenge/Session10 A.LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session10/Session10 ArrayListChallenge/Session10 ArrayListChallenge.iml" filepath="$PROJECT_DIR$/Session10/Session10 ArrayListChallenge/Session10 ArrayListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session10/Session10 ArrayLists/Session10 ArrayLists.iml" filepath="$PROJECT_DIR$/Session10/Session10 ArrayLists/Session10 ArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session10/Session10 LinkedListChallenge/Session10 LinkedListChallenge.iml" filepath="$PROJECT_DIR$/Session10/Session10 LinkedListChallenge/Session10 LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7.iml" filepath="$PROJECT_DIR$/Session7/Session7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 AllAboutStrings/Session7 AllAboutStrings.iml" filepath="$PROJECT_DIR$/Session7/Session7 AllAboutStrings/Session7 AllAboutStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 ClassesChallenge/Session7 ClassesChallenge.iml" filepath="$PROJECT_DIR$/Session7/Session7 ClassesChallenge/Session7 ClassesChallenge.iml" />
