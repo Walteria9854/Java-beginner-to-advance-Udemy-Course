@@ -1,5 +1,12 @@
 package dev.lpa;
 
+abstract class Mammal extends Animal {
+
+    public Mammal(String type, String size, double weight) {
+        super(type, size, weight);
+    }
+}
+
 public abstract class Animal {
 
     protected String type;
