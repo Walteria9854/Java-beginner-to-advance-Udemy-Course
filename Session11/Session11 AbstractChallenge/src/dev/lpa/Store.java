@@ -16,7 +16,25 @@ public class Store {
         storeProducts.add(new ArtObject(
                 "Sculpture", 2000, "Bronze work by JKF, produced in 1950"));
 
+        storeProducts.add(new Furniture("Desk",500, "Mahogany Desk"));
+
+        storeProducts.add(new Furniture("Lamp", 200, "Tiffany Lamp with Hummingbirds"));
+
         listProducts();
+
+        System.out.println("\nOrder 1");
+        var order1 = new ArrayList<OrderItem>();
+        additemToOrder(order1, 1, 2);
+        additemToOrder(order1, 0, 1);
+        printOrder(order1);
+
+        System.out.println("\nOrder 2");
+        var order2 = new ArrayList<OrderItem>();
+        additemToOrder(order2,3, 5);
+        additemToOrder(order2,0, 1);
+        additemToOrder(order2,2, 1);
+        printOrder(order2);
+
     }
 
     public static void listProducts() {
