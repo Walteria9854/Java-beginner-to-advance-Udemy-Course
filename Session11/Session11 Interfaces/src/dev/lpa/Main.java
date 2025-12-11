@@ -15,5 +15,9 @@ public class Main {
 //        flier.move();
 //        tracked.move();
 
+        flier.takeOff();
+        flier.fly();
+        tracked.track();
+
     }
 }
