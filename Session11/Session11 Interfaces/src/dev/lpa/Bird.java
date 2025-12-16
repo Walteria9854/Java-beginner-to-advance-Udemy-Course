@@ -23,7 +23,10 @@ public class Bird extends Animal implements FlightEnabled, Trackable{
 
     }
 
-
+    @Override
+    public void exmaple() {
+        System.out.println(getClass().getSimpleName() + " got the exmaple of your case");
+    }
 
     @Override
     public void track() {

@@ -17,7 +17,10 @@ public class Jet implements FlightEnabled, Trackable{
 
     }
 
-
+    @Override
+    public void exmaple() {
+        System.out.println(getClass().getSimpleName() + "getting a jet case of yours that you want to put in");
+    }
 
     @Override
     public void track() {
