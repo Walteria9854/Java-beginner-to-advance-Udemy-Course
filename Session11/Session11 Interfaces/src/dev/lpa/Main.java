@@ -15,9 +15,24 @@ public class Main {
 //        flier.move();
 //        tracked.move();
 
+//        flier.takeOff();
+//        flier.fly();
+//        tracked.track();
+//        flier.land();
+
+        inFlight(flier);
+        inFlight(new Jet());
+        Trackable truck = new Truck();
+        truck.track();
+
+    }
+
+    private static void inFlight(FlightEnabled flier) {
         flier.takeOff();
         flier.fly();
-        tracked.track();
-
+        if(flier instanceof Trackable tracked) {
+            tracked.track();
+        }
+        flier.land();
     }
 }
