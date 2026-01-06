@@ -41,9 +41,19 @@ abstract class Line implements Mappable {
         for(var l:locations){
             this.locations[index++] = Mappable.stringToLatLon(l);
         }
-
-        
     }
+
+    @Override
+    public void render() {
+        System.out.println("Render " + this + " as LINE (" + locations() + ")");
+    }
+
+
+    private String locations(){
+        return Arrays.deepToString(locations);
+    }
+
+
 }
 
 
