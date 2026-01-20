@@ -2,6 +2,7 @@ package dev.lpa;
 
 import dev.lpa.model.LPAStudent;
 import dev.lpa.model.Student;
+import dev.lpa.util.QueryList;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -26,17 +27,53 @@ public class Main {
 //   printList(lpaStudents);
     printMoreList(lpaStudents);
 
+    testList(new ArrayList<String>(List.of("Able", "Barry", "Charlie")));
+    testList(new ArrayList<Integer>(List.of(1,2,3)));
+
+    var queryList = new QueryList<>(lpaStudents);
+    var matches = queryList.getMatches(
+        "COURSE", "Python"
+    );
+    printMoreList(matches);
+
+    var student2021 = QueryList.getMatche(students, "YearStarted", "2021");
+    printMoreList(student2021);
+
   }
 
   public static void printMoreList(List<? extends Student> students){
-
-    Student last = students.get(students.size()-1);
-    students.set(0, last);
+//
+//    Student last = students.get(students.size()-1);
+//    students.set(0, last);
     for(var student : students){
       System.out.println(student.getYearStarted() + ": " + student);
     }
     System.out.println();
   }
+
+  public static void testList(List<?> list) {
+    for (var element : list) {
+      if (element instanceof String s) {
+        System.out.println("String: " + s.toUpperCase());
+      }else if (element instanceof Integer i) {
+        System.out.println("Integer:" + i.floatValue());
+      }
+    }
+  }
+
+//  public static void testList(List<String> list) {
+//
+//    for (var element : list) {
+//      System.out.println("String: " + element.toUpperCase());
+//    }
+//  }
+//
+//  public static void testList(List<Integer> list) {
+//
+//    for (var element : list) {
+//      System.out.println("String: " + element.floatValue());
+//    }
+//  }
 
 //  public static <T extends Student> void printList(List<T> students){
 //    for(var student : students){

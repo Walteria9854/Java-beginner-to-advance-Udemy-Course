@@ -1,8 +1,9 @@
 package dev.lpa.model;
 
+import dev.lpa.util.QueryItem;
 import java.util.Random;
 
-public class Student {
+public class Student implements QueryItem {
 
   private String name;
   private String course;
@@ -25,6 +26,18 @@ public class Student {
 
   @Override
   public String toString() {
+
     return "%-15s %-15s %d".formatted(name, course, yearStarted);
+  }
+
+  @Override
+  public boolean matchFieldValue(String fieldName, String value) {
+    String fName = fieldName.toUpperCase();
+    return switch(fName){
+      case "NAME" -> name.equalsIgnoreCase(value);
+      case "COURSE"-> course.equalsIgnoreCase(value);
+      case "YEARSTARTED" -> yearStarted == (Integer.parseInt(value));
+      default -> false;
+    };
   }
 }
