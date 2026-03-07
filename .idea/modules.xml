@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section5 IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/Section5 IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session10/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/Session10/LinkedLists/LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session13/LocalClassChallenge/LocalClassChallenge.iml" filepath="$PROJECT_DIR$/Session13/LocalClassChallenge/LocalClassChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section4/Section4.iml" filepath="$PROJECT_DIR$/Section4/Section4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section5/Section5.iml" filepath="$PROJECT_DIR$/Section5/Section5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section5 MethodOverloading/Section5 MethodOverloading.iml" filepath="$PROJECT_DIR$/Section5 MethodOverloading/Section5 MethodOverloading.iml" />
@@ -44,6 +45,9 @@
       <module fileurl="file://$PROJECT_DIR$/Session12/Session12 StudentChallenge/Session12 StudentChallenge.iml" filepath="$PROJECT_DIR$/Session12/Session12 StudentChallenge/Session12 StudentChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session13/Session13.iml" filepath="$PROJECT_DIR$/Session13/Session13.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session13/Session13 NestedClasses/Session13 NestedClasses.iml" filepath="$PROJECT_DIR$/Session13/Session13 NestedClasses/Session13 NestedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session14/Session14.iml" filepath="$PROJECT_DIR$/Session14/Session14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session14/Session14 LambdaExpressions/Session14 LambdaExpressions.iml" filepath="$PROJECT_DIR$/Session14/Session14 LambdaExpressions/Session14 LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session14/Session14 LambdaIntro/Session14 LambdaIntro.iml" filepath="$PROJECT_DIR$/Session14/Session14 LambdaIntro/Session14 LambdaIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7.iml" filepath="$PROJECT_DIR$/Session7/Session7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 AllAboutStrings/Session7 AllAboutStrings.iml" filepath="$PROJECT_DIR$/Session7/Session7 AllAboutStrings/Session7 AllAboutStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 ClassesChallenge/Session7 ClassesChallenge.iml" filepath="$PROJECT_DIR$/Session7/Session7 ClassesChallenge/Session7 ClassesChallenge.iml" />
