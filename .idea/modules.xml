@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Session15/CollectionsOverview/CollectionsOverview.iml" filepath="$PROJECT_DIR$/Session15/CollectionsOverview/CollectionsOverview.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section6/DigitSumChallenge/DigitSumChallenge.iml" filepath="$PROJECT_DIR$/Section6/DigitSumChallenge/DigitSumChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section5 IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/Section5 IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
@@ -48,6 +49,8 @@
       <module fileurl="file://$PROJECT_DIR$/Session14/Session14.iml" filepath="$PROJECT_DIR$/Session14/Session14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session14/Session14 LambdaExpressions/Session14 LambdaExpressions.iml" filepath="$PROJECT_DIR$/Session14/Session14 LambdaExpressions/Session14 LambdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session14/Session14 LambdaIntro/Session14 LambdaIntro.iml" filepath="$PROJECT_DIR$/Session14/Session14 LambdaIntro/Session14 LambdaIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session14/Session14 MiniLambdaChallenge/Session14 MiniLambdaChallenge.iml" filepath="$PROJECT_DIR$/Session14/Session14 MiniLambdaChallenge/Session14 MiniLambdaChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session15/Session15.iml" filepath="$PROJECT_DIR$/Session15/Session15.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7.iml" filepath="$PROJECT_DIR$/Session7/Session7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 AllAboutStrings/Session7 AllAboutStrings.iml" filepath="$PROJECT_DIR$/Session7/Session7 AllAboutStrings/Session7 AllAboutStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session7/Session7 ClassesChallenge/Session7 ClassesChallenge.iml" filepath="$PROJECT_DIR$/Session7/Session7 ClassesChallenge/Session7 ClassesChallenge.iml" />
