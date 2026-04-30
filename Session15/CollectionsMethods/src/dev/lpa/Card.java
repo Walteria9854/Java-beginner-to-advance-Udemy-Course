@@ -69,12 +69,11 @@ public record Card(Suit suit, String face, int rank) {
     System.out.println("---------------------------------");
     if(desciption != null){
       System.out.println(desciption);
-
     }
 
     int cardsInRow = deck.size() / rows;
-    for(int i = 0; i < rows;i++){
-      int startIndex = i + cardsInRow;
+    for(int i = 0; i < rows; i++){
+      int startIndex = i * cardsInRow;
       int endIndex = startIndex + cardsInRow;
       deck.subList(startIndex, endIndex).forEach(c -> System.out.print(c + " "));
       System.out.println();
