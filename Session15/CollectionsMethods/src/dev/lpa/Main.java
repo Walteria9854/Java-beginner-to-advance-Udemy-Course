@@ -1,5 +1,6 @@
 package dev.lpa;
 
+import dev.lpa.Card.Suit;
 import java.util.*;
 
 public class Main {
@@ -62,7 +63,16 @@ public class Main {
     System.out.println("sublist index for tens = " + subListIndex);
     System.out.println("Contains = " + deck.containsAll(tens));
 
+    boolean disjoint = Collections.disjoint(deck, tens);
+    System.out.println("disjoint = " + disjoint);
 
+    boolean disjoint2 = Collections.disjoint(kings, tens);
+    System.out.println("disjoint2 = " + disjoint2);
+
+    Card tenOfHearts = Card.getNumbericCard(Card.Suit.HEART, 10);
+    int foundIndex = Collections.binarySearch(deck, tenOfHearts, sortingAlgorithm);
+    System.out.println("foundIndex = " + foundIndex);
+    System.out.println(deck.get(foundIndex));
 
 
   }
