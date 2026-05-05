@@ -60,6 +60,9 @@ public class Main {
 
     int subListIndex = Collections.indexOfSubList(deck, tens);
     System.out.println("sublist index for tens = " + subListIndex);
+    System.out.println("Contains = " + deck.containsAll(tens));
+
+
 
 
   }
