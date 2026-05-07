@@ -99,6 +99,9 @@ public class Main {
 
     System.out.println("Ten of Clubs Cards = " +
         Collections.frequency(deck, tenOfClubs));
+
+    System.out.println("Best Card = " + Collections.max(deck, sortingAlgorithm));
+    System.out.println("Worst Card = " + Collections.min(deck, sortingAlgorithm));
   }
 
 }
